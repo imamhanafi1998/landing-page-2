@@ -62,7 +62,7 @@ export default function App() {
               <Link
                 href="https://github.com/grikomsn"
                 isExternal
-                color="yellow.300"
+                color="yellow.400"
               >
                 Griko Nibras
               </Link>
