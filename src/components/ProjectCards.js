@@ -87,7 +87,8 @@ const ProjectCards = ({ title, tags, desc, image, link, clickEvent }) => {
               <Button
                 onClick={() => window.open(`${link}`, "_blank")}
                 variant="solid"
-                color="yellow.400"
+                // color="yellow.400"
+                colorScheme="yellow"
                 rightIcon={<ArrowForwardIcon />}
               >
                 Visit demo
