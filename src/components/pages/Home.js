@@ -75,7 +75,7 @@ const Home = () => {
               <Link as={ReactLink} to="/projects" color="yellow.400">
                 some projects
               </Link>{" "}
-              in the past until now. Ex vice president on internal university
+              in the past until now. Ex vice president from web community in Information System Department of UPN JATIM
               named{" "}
               <Tooltip
                 placement="bottom-start"
