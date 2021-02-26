@@ -18,7 +18,7 @@ import {
   AiFillGithub,
   AiFillMail,
   AiFillLinkedin,
-  AiOutlineInstagram
+  AiFillInstagram
 } from "react-icons/ai";
 import { FaTelegramPlane, FaTwitter, FaLine } from "react-icons/fa";
 
@@ -137,7 +137,7 @@ const Contacts = () => {
                 fontSize={{ base: "md", sm: "lg" }}
                 mb={!isLarge ? "3" : "0"}
               >
-                <Icon mb="1" as={AiOutlineInstagram} /> Instagram
+                <Icon mb="1" as={AiFillInstagram} /> Instagram
                 {!isLarge ? <br /> : " - "}
                 <Link
                   href="https://instagram.com/myth_hanafi/"
