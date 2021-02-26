@@ -58,7 +58,7 @@ export default function App() {
               <Link color="yellow.400" as={ReachLink} to="/">
                 Imam Hanafi
               </Link>
-              . Design by{" "}
+              . Designed by{" "}
               <Link
                 href="https://github.com/grikomsn"
                 isExternal
